@@ -5,7 +5,7 @@ This innovative temperature converter will display temperatures in degrees Celci
   * Dynamic and interactive
 ## Installation
 > Use a javascript supported browser and make sure javascript is enabled in your web browser.
-visit 
+visit:[https://chiamaka-uzuegbu.github.io/js-Temperature-Converter/](https://chiamaka-uzuegbu.github.io/js-Temperature-Converter/)
 ##
 * Javascript
 * A modern web browser
